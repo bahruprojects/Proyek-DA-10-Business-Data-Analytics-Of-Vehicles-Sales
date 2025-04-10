@@ -1,0 +1,2 @@
+# Business Data Analytics Of Vehicles Sales (2014 - 2015) Dashboard
+The dashboard contains information from 517.1 thousand sales, with a total profit of 6.99 billion US dollars between 2014 and 2015. The majority of sales occurred in North America, with 68,111 sales recorded. Most customers preferred sedan sizes, and 85.3% chose automatic cars. Ford, Chevrolet, and Nissan are the top three most popular brands worldwide.
